@@ -1,0 +1,23 @@
+{
+  "name": "video-update-npm-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "npm-check": "npm-check --update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future-wd/video-update-npm-dependencies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/future-wd/video-update-npm-dependencies/issues"
+  },
+  "homepage": "https://github.com/future-wd/video-update-npm-dependencies#readme",
+  "dependencies": {
+    "npm-check": "^5.9.2",
+    "standard-version": "^9.3.2"
+  }
+}
